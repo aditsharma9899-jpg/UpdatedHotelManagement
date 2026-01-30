@@ -2,7 +2,7 @@
 
 const API_URL = window.location.hostname === 'localhost' 
     ? 'http://localhost:3001/newapi'
-    : '/api';
+    : 'https://updatedhotelmanagement.onrender.com/newapi';
 
 const rooms = { first: [], second: [], third: [] };
 const HOTEL_ADDRESS = `ADDRESS: NAGAR, SHRIDI ROAD, GUHA, TALUKA RAHURI,
