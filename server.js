@@ -418,7 +418,7 @@ app.post('/api/verify-session', (req, res) => {
     }
 });
 
-app.listen('https://updatedhotelmanagement.onrender.com', '0.0.0.0', () => {
+app.listen('https://updatedhotelmanagement.onrender.com', () => {
     console.log(`✅ Server running on http://localhost:${PORT}`);
     console.log(`💾 Data persistence: ENABLED`);
     console.log(`📁 Documents auto-save to Excel: ENABLED`);
