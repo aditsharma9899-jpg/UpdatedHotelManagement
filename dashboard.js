@@ -2224,7 +2224,7 @@ function searchPayments() {
 }
 
 function exportExcel() {
-    window.open(`http://localhost:3001/api/download`, '_blank');
+    window.open(`https://updatedhotelmanagement.onrender.com/api/download`, '_blank');
 }
 
 console.log('🚀 Dashboard JS fully loaded!');
