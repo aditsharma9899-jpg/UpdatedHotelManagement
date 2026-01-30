@@ -27,7 +27,7 @@ const foodItems = [
     { id: 6, name: 'Cold Drinks', price: 60 }
 ];
 
-const API_BASE_URL = "http://localhost:3001/api";
+const API_BASE_URL = "https://updatedhotelmanagement.onrender.com/newapi";
 
 let bookings = [];
 let customers = [];
