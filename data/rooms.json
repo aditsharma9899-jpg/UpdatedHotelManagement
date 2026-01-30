@@ -1,0 +1,62 @@
+[
+  {
+    "Floor": "first",
+    "Room Number": "101",
+    "Status": "available",
+    "Type": "Non AC"
+  },
+  {
+    "Floor": "first",
+    "Room Number": "102",
+    "Status": "available",
+    "Type": "AC"
+  },
+  {
+    "Floor": "first",
+    "Room Number": "103",
+    "Status": "available",
+    "Type": "Non AC"
+  },
+  {
+    "Floor": "second",
+    "Room Number": "201",
+    "Status": "available",
+    "Type": "AC"
+  },
+  {
+    "Floor": "second",
+    "Room Number": "202",
+    "Status": "available",
+    "Type": "AC"
+  },
+  {
+    "Floor": "second",
+    "Room Number": "203",
+    "Status": "available",
+    "Type": "Non AC"
+  },
+  {
+    "Floor": "second",
+    "Room Number": "204",
+    "Status": "available",
+    "Type": "Non AC"
+  },
+  {
+    "Floor": "third",
+    "Room Number": "301",
+    "Status": "available",
+    "Type": "AC Hall"
+  },
+  {
+    "Floor": "third",
+    "Room Number": "302",
+    "Status": "available",
+    "Type": "AC"
+  },
+  {
+    "Floor": "third",
+    "Room Number": "303",
+    "Status": "available",
+    "Type": "AC"
+  }
+]

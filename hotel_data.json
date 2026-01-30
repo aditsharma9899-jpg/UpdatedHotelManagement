@@ -1,0 +1,427 @@
+{
+  "rooms": [
+    {
+      "Floor": "first",
+      "Room Number": "101",
+      "Status": "occupied",
+      "Type": "Non AC"
+    },
+    {
+      "Floor": "first",
+      "Room Number": "102",
+      "Status": "occupied",
+      "Type": "AC"
+    },
+    {
+      "Floor": "first",
+      "Room Number": "103",
+      "Status": "occupied",
+      "Type": "Non AC"
+    },
+    {
+      "Floor": "second",
+      "Room Number": "201",
+      "Status": "occupied",
+      "Type": "AC"
+    },
+    {
+      "Floor": "second",
+      "Room Number": "202",
+      "Status": "occupied",
+      "Type": "AC"
+    },
+    {
+      "Floor": "second",
+      "Room Number": "203",
+      "Status": "available",
+      "Type": "Non AC"
+    },
+    {
+      "Floor": "second",
+      "Room Number": "204",
+      "Status": "available",
+      "Type": "Non AC"
+    },
+    {
+      "Floor": "third",
+      "Room Number": "301",
+      "Status": "available",
+      "Type": "Ac Hall"
+    },
+    {
+      "Floor": "third",
+      "Room Number": "302",
+      "Status": "available",
+      "Type": "AC"
+    },
+    {
+      "Floor": "third",
+      "Room Number": "303",
+      "Status": "available",
+      "Type": "AC"
+    }
+  ],
+  "bookings": [
+    {
+      "Booking ID": "BK0006",
+      "Customer Name": "abc",
+      "Mobile": "7548247115",
+      "No. of Persons": "1",
+      "Room Number": "TBD",
+      "Room Type": "TBD",
+      "Check In": "2026-01-24",
+      "Check In Time": "20:39",
+      "Check Out": "2026-01-31",
+      "Total Amount": 0,
+      "Advance": 500,
+      "Balance": -1000,
+      "Status": "Advance Booking",
+      "Date": "23/01/2026",
+      "Time": "20:38:45",
+      "Note": "",
+      "Room Amount": 0
+    },
+    {
+      "Booking ID": "BK0009",
+      "Customer Name": "xyz",
+      "Mobile": "7854128331",
+      "No. of Persons": "1",
+      "Room Number": "TBD",
+      "Room Type": "TBD",
+      "Check In": "2026-01-26",
+      "Check In Time": "21:08",
+      "Check Out": "2026-01-31",
+      "Total Amount": 0,
+      "Advance": 500,
+      "Balance": -1000,
+      "Status": "Advance Booking",
+      "Date": "23/01/2026",
+      "Time": "21:09:01",
+      "Note": "",
+      "Room Amount": 0
+    },
+    {
+      "Booking ID": "BK0010",
+      "Customer Name": "Ankush",
+      "Mobile": "7404722365",
+      "Address": "317/2 rohtak",
+      "Sr Number": "001",
+      "No. of Persons": "1",
+      "Room Number": "101",
+      "Room Type": "Non AC",
+      "Check In": "2026-01-29",
+      "Check In Time": "22:00",
+      "Check Out": "2026-01-30",
+      "Nights": 1,
+      "Room Price Per Night": 1000,
+      "Room Amount": 1000,
+      "Additional Amount": 0,
+      "Total Amount": 1000,
+      "Payment Mode": "cash",
+      "Advance": 1000,
+      "Balance": -1000,
+      "Status": "Checked Out",
+      "Date": "29/01/2026",
+      "Time": "11:35:44 PM",
+      "Note": "",
+      "Food Orders": [],
+      "Check Out Time": "23:36"
+    },
+    {
+      "Booking ID": "BK0011",
+      "Address": "Chandigarh",
+      "Sr Number": "989",
+      "No. of Persons": "1",
+      "Room Number": "101",
+      "Room Type": "Non AC",
+      "Check In": "2026-01-30",
+      "Check In Time": "23:00",
+      "Check Out": "2026-01-31",
+      "Nights": 1,
+      "Room Price Per Night": 1200,
+      "Room Amount": 1200,
+      "Additional Amount": 0,
+      "Total Amount": 1200,
+      "Payment Mode": "cash",
+      "Advance": 200,
+      "Balance": 800,
+      "Status": "Confirmed",
+      "Date": "30/01/2026",
+      "Time": "8:26:23 AM",
+      "Note": "",
+      "Food Orders": []
+    },
+    {
+      "Booking ID": "BK0012",
+      "Address": "Chandigarh",
+      "Sr Number": "678",
+      "No. of Persons": "1",
+      "Room Number": "102",
+      "Room Type": "AC",
+      "Check In": "2026-01-31",
+      "Check In Time": "23:00",
+      "Check Out": "2026-01-31",
+      "Nights": 1,
+      "Room Price Per Night": 1300,
+      "Room Amount": 1300,
+      "Additional Amount": 0,
+      "Total Amount": 1300,
+      "Payment Mode": "cash",
+      "Advance": 300,
+      "Balance": 700,
+      "Status": "Confirmed",
+      "Date": "30/01/2026",
+      "Time": "8:37:58 AM",
+      "Note": "",
+      "Food Orders": []
+    },
+    {
+      "Booking ID": "BK0013",
+      "Address": "",
+      "Sr Number": "N/A",
+      "No. of Persons": "1",
+      "Room Number": "103",
+      "Room Type": "Non AC",
+      "Check In": "2026-01-31",
+      "Check In Time": "03:02",
+      "Check Out": "2026-01-31",
+      "Nights": 1,
+      "Room Price Per Night": 4500,
+      "Room Amount": 4500,
+      "Additional Amount": 0,
+      "Total Amount": 4500,
+      "Payment Mode": "cash",
+      "Advance": 500,
+      "Balance": 3500,
+      "Status": "Confirmed",
+      "Date": "30/01/2026",
+      "Time": "8:46:11 AM",
+      "Note": "",
+      "Food Orders": []
+    },
+    {
+      "Booking ID": "BK0014",
+      "Address": "Chandigarh",
+      "Sr Number": "54",
+      "No. of Persons": "1",
+      "Room Number": "201",
+      "Room Type": "AC",
+      "Check In": "2026-01-29",
+      "Check In Time": "03:04",
+      "Check Out": "2026-01-31",
+      "Nights": 2,
+      "Room Price Per Night": 2300,
+      "Room Amount": 4600,
+      "Additional Amount": 0,
+      "Total Amount": 4600,
+      "Payment Mode": "cash",
+      "Advance": 300,
+      "Balance": 4000,
+      "Status": "Confirmed",
+      "Date": "30/01/2026",
+      "Time": "8:56:47 AM",
+      "Note": "",
+      "Food Orders": []
+    },
+    {
+      "Booking ID": "BK0015",
+      "Address": "Chandigarh",
+      "Sr Number": "908",
+      "No. of Persons": "1",
+      "Room Number": "202",
+      "Room Type": "AC",
+      "Check In": "2026-01-30",
+      "Check In Time": "06:07",
+      "Check Out": "2026-01-31",
+      "Nights": 1,
+      "Room Price Per Night": 2300,
+      "Room Amount": 2300,
+      "Additional Amount": 0,
+      "Total Amount": 2300,
+      "Payment Mode": "cash",
+      "Advance": 300,
+      "Balance": 1700,
+      "Status": "Confirmed",
+      "Date": "30/01/2026",
+      "Time": "9:00:53 AM",
+      "Note": "",
+      "Food Orders": []
+    },
+    {
+      "bookingId": "BK-Infinity",
+      "customerName": "uih",
+      "mobile": "9729846130",
+      "address": "Chandigarh",
+      "srNumber": "45",
+      "numPersons": "1",
+      "rooms": [
+        {
+          "number": "203",
+          "type": "Non AC"
+        }
+      ],
+      "checkInDate": "2026-01-23",
+      "checkInTime": "06:07",
+      "checkOutDate": "2026-01-31",
+      "nights": 8,
+      "roomPricePerNight": 3400,
+      "roomAmount": 27200,
+      "additionalAmount": 0,
+      "totalAmount": 27200,
+      "paymentMode": "cash",
+      "advance": 400,
+      "balance": 26800,
+      "status": "Confirmed",
+      "note": "",
+      "foodOrders": [],
+      "documents": [],
+      "Room Amount": 0,
+      "Total Amount": 0,
+      "Balance": 0
+    }
+  ],
+  "customers": [
+    {
+      "Customer ID": "CUST0001",
+      "Name": "Ankush",
+      "Mobile": "7404722365",
+      "Address": "317/2 rohtak",
+      "Total Bookings": 1,
+      "documents": []
+    },
+    {
+      "Customer ID": "CUST0002",
+      "Address": "Chandigarh",
+      "Total Bookings": 1,
+      "documents": []
+    },
+    {
+      "Customer ID": "CUST0003",
+      "Address": "Chandigarh",
+      "Total Bookings": 1,
+      "documents": []
+    },
+    {
+      "Customer ID": "CUST0004",
+      "Address": "",
+      "Total Bookings": 1,
+      "documents": []
+    },
+    {
+      "Customer ID": "CUST0005",
+      "Address": "Chandigarh",
+      "Total Bookings": 1,
+      "documents": []
+    },
+    {
+      "Customer ID": "CUST0006",
+      "Address": "Chandigarh",
+      "Total Bookings": 1,
+      "documents": []
+    },
+    {
+      "Customer ID": "CUST0007",
+      "Name": "uih",
+      "Mobile": "9729846130",
+      "Address": "Chandigarh",
+      "Total Bookings": 1,
+      "documents": []
+    }
+  ],
+  "payments": [
+    {
+      "Payment ID": "PAY0001",
+      "Booking ID": "BK0010",
+      "Customer Name": "Ankush",
+      "Amount": 1000,
+      "Payment Mode": "cash",
+      "Date": "29/01/2026",
+      "Time": "11:35:44 PM"
+    },
+    {
+      "Payment ID": "PAY0002",
+      "Booking ID": "BK0011",
+      "Amount": 200,
+      "Payment Mode": "cash",
+      "Date": "30/01/2026",
+      "Time": "8:26:23 AM"
+    },
+    {
+      "Payment ID": "PAY0003",
+      "Booking ID": "BK0012",
+      "Amount": 300,
+      "Payment Mode": "cash",
+      "Date": "30/01/2026",
+      "Time": "8:37:58 AM"
+    },
+    {
+      "Payment ID": "PAY0004",
+      "Booking ID": "BK0013",
+      "Amount": 500,
+      "Payment Mode": "cash",
+      "Date": "30/01/2026",
+      "Time": "8:46:11 AM"
+    },
+    {
+      "Payment ID": "PAY0005",
+      "Booking ID": "BK0014",
+      "Amount": 300,
+      "Payment Mode": "cash",
+      "Date": "30/01/2026",
+      "Time": "8:56:47 AM"
+    },
+    {
+      "Payment ID": "PAY0006",
+      "Booking ID": "BK0015",
+      "Amount": 300,
+      "Payment Mode": "cash",
+      "Date": "30/01/2026",
+      "Time": "9:00:53 AM"
+    },
+    {
+      "Payment ID": "PAY0007",
+      "Booking ID": "BK-Infinity",
+      "Customer Name": "uih",
+      "Amount": 400,
+      "Payment Mode": "cash",
+      "Date": "30/01/2026",
+      "Time": "9:22:22 AM"
+    }
+  ],
+  "staff": [],
+  "attendance": [
+    {
+      "Attendance ID": "ATT0001",
+      "Staff ID": "STAFF0001",
+      "Staff Name": "abc",
+      "Date": "23/01/2026",
+      "Time": "20:37:22",
+      "Status": "Present"
+    },
+    {
+      "Attendance ID": "ATT0002",
+      "Staff ID": "STAFF0001",
+      "Staff Name": "abc",
+      "Date": "23/01/2026",
+      "Time": "20:37:41",
+      "Status": "Present"
+    },
+    {
+      "Attendance ID": "ATT0003",
+      "Staff ID": "STAFF0001",
+      "Staff Name": "abc",
+      "Date": "20/01/2026",
+      "Time": "21:12:17",
+      "Status": "Absent"
+    },
+    {
+      "Attendance ID": "ATT0003",
+      "Staff ID": "STAFF0001",
+      "Staff Name": "abc",
+      "Date": "20/01/2026",
+      "Time": "21:12:21",
+      "Status": "Present"
+    }
+  ],
+  "lastUpdated": "2026-01-30T11:57:23.279Z"
+}

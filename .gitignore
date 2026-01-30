@@ -1,0 +1,7 @@
+node_modules/
+bookings.xlsx
+.env
+*.log
+.DS_Store
+# Keep hotel_data.json for persistence - DO NOT IGNORE
+# hotel_data.json
